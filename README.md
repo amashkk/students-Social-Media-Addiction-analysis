@@ -2,8 +2,8 @@
 
 本專案分析社群媒體使用時間與學生身心健康之間的關係，包括心理健康、睡眠品質及成癮程度。
 
-## 📊 資料集說明
-
+## 📊 資料集
+**來源** kaggle: https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships
 資料集包含學生的社群媒體使用模式及各項健康/行為指標：
 
 | 欄位 | 說明 |
